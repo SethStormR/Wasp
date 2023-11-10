@@ -2,7 +2,7 @@
 
 ![WaspLogo](https://github.com/SethStormR/Wasp/assets/60283532/47d8d06d-3aa0-4ace-8441-ad84db219330)
 
-An Yellow &amp; Black icon theme for Gnome, Deepin, XFCE amd Budgie De.
+An Yellow &amp; Black icon theme for Gnome, Deepin, XFCE and Budgie De.
 
 
 Screenshots
